@@ -33,7 +33,7 @@ I'm a Software Engineering student at **Brigham Young University-Idaho** (Web De
 |---|---|---|
 | [**angular-cms**](https://github.com/tsue-hickman/angular-cms) | Full-featured Angular CMS project for web development | TypeScript, Angular |
 | [**my_broke_life_project**](https://github.com/tsue-hickman/my_broke_life_project) | Collaborative team project built for BYU-I CSE 341 | JavaScript |
-| [**address_book**](https://github.com/tsue-hickman/address_book) | Address book web application | HTML |
+| [**address_book**](https://github.com/tsue-hickman/address_book) | Address book web application | Ruby On Rails |
 
 ## Let's Connect
 
