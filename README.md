@@ -1,16 +1,7 @@
-# Hi, I'm Tayler Hickman 👋
 
-I'm a Software Engineering student at **Brigham Young University-Idaho** (Web Development emphasis) based in the Kansas City area. I build full-stack web applications and I'm currently working in customer success at a SaaS CRM startup — which means I think about software from both the builder's side and the user's side.
 
-## About Me
 
-- 🎓 Pursuing a B.S. in Software Engineering at BYU-Idaho
-- 💼 Currently @ [Swivel](https://www.swivel.com) — Customer Support Specialist
-- 🌐 Fluent in **English** and **Spanish**
-- 🔭 Long-term interests in **health data science** and **bioinformatics**
-- ⚡ I pick things up fast and thrive in environments where I'm constantly learning
-
-## Technologies & Tools
+**Technologies**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue 3" alt="Vue" width="40" height="40"/>&nbsp;
